@@ -1,5 +1,7 @@
 README para challange_DS_JP.ipynb
+
 Descripción del Proyecto
+
 Este cuaderno de Jupyter (challange_DS_JP.ipynb) está diseñado para ayudar al Sr. Juan a decidir cuál tienda de su cadena Alura Store debería ser vendida para iniciar un nuevo emprendimiento. A través del análisis de datos de ventas, rendimiento y reseñas de las 4 tiendas de Alura Store, el objetivo es identificar la tienda menos eficiente y proporcionar una recomendación final basada en los datos.
 
 Objetivos
@@ -42,6 +44,7 @@ Para ejecutar este cuaderno, asegúrate de tener instalado:
 De preferencia utilizar google Colab
 Python 3.x
 Jupyter Notebook
+
 Bibliotecas necesarias:
 pandas
 numpy
